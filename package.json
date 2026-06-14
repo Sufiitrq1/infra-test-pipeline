@@ -1,0 +1,12 @@
+{
+  "name": "infra-test-pipeline",
+  "version": "1.0.0",
+  "description": "Infrastructure Testing Pipeline with Floci",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
